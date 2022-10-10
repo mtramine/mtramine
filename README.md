@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Amine
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning React
+- 📫 You can reach me on amine.mehtar@hotmail.com
