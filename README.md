@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Amine
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React
+- 🤓 I'm currently pursuing a Bachelor of Engineering and aspiring to become a full-stack developer.
+- 🌱 I’m currently learning the following technologies: Java, Spring Boot, TypeScript, Angular & MySQL
+- 👀 I have some experience with JavaScript, React, NodeJs and MongoDB
 - 📫 You can reach me on amine.mehtar@hotmail.com
